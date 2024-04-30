@@ -15,6 +15,7 @@ public class Game extends choicesImpl {
             // add menu, loading screen, setname maybe depending on the menu
         }
         public static void run(){
+            startup.start();
             characters player = new characters("player");
             characters enemy = new characters("enemy");
             choicesImpl choice = new choicesImpl();
@@ -23,6 +24,8 @@ public class Game extends choicesImpl {
             choice.basicAttack(enemy);
             choice.basicAttack(enemy);
             choice.basicAttack(enemy);
+            
+            
         }
         
 
