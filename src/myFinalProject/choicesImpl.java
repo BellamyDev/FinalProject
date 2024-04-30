@@ -15,7 +15,7 @@ public class choicesImpl implements choices {
         if(damage == 0){
             // implement logic for miss
 
-        }
+        }//System.out.println(damage);
         defender.setHealth(defender.getHealth() - damage);
         //System.out.println(defender.getHealth());
 
@@ -33,8 +33,15 @@ public class choicesImpl implements choices {
     }
 
     @Override
-    public void heal(characters attacker) {
-        throw new UnsupportedOperationException("Not supported yet.");
+    public void heal(characters defender) {
+        int health = defender.getHealth();
+        int heal = rollers.healRoll(11 , 21 , defender, 8);
+        if(health + heal > defender.getMaxHealth()){
+            defender.setHealth(defender.getMaxHealth());
+        } else {
+            defender.setHealth(health + heal);
+        }
+        //print the health or if it failed(probably in the rollers instead because this doesnt return the status of failure)
     }
 
     @Override

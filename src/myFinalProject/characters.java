@@ -14,6 +14,7 @@ public class characters {
     String name;
     int health;
     int mana;
+    int maxHealth = 150;
 
     public characters(String inputname){
         name = inputname;
@@ -37,6 +38,9 @@ public class characters {
     }
     public void setName(String newName){
         name = newName;
+    }
+    public int getMaxHealth(){
+        return maxHealth;
     }
   
 
