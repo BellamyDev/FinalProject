@@ -44,10 +44,6 @@ public class choicesImpl implements choices {
         //print the health or if it failed(probably in the rollers instead because this doesnt return the status of failure)
     }
 
-    @Override
-    public void empower() {
-        throw new UnsupportedOperationException("Not supported yet.");
-    }
 
     @Override
     public void flee() {

@@ -12,7 +12,6 @@ public interface choices {
     public void basicAttack(characters defender);
     public void fireBall(characters defender);
     public void heal(characters defender);
-    public void empower();
     public void flee();
     
 }
