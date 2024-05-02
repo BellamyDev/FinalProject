@@ -39,7 +39,7 @@ public class choicesImpl implements choices {
         if(health + heal > defender.getMaxHealth()){
             defender.setHealth(defender.getMaxHealth());
         } else {
-            defender.setHealth(health + heal);
+            defender.setHealth(health + heal);//make output for the amount healed. probably put the code in the heal roll
         }
         //print the health or if it failed(probably in the rollers instead because this doesnt return the status of failure)
     }
