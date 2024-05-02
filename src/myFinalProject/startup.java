@@ -1,13 +1,16 @@
 package myFinalProject;
+
 import basicgraphics.BasicFrame;
-import basicgraphics.SpriteComponent;
-import java.awt.Dimension;
+
 public class startup {
+        private static BasicFrame bf = new BasicFrame("Game");
+        public static LoadingScreen loadingScreen = new LoadingScreen(bf);
+        public static BasicFrame getBasicFrame() {
+            return bf;
+        }
+
     public static void start(){
-        BasicFrame f = new BasicFrame("Game");
-        SpriteComponent sc = new SpriteComponent();
-        sc.setPreferredSize(new Dimension(400, 300));
-        f.show();
+        mainMenu.menu();
     }
 
 

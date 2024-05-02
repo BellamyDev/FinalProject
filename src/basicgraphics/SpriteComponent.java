@@ -46,7 +46,7 @@ public class SpriteComponent extends JComponent implements MouseListener {
         addMouseListener(this);
     }
 
-    void addSprite(Sprite sp) {
+    public void addSprite(Sprite sp) {
         sprites.add(sp);
     }
 

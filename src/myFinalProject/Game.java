@@ -16,6 +16,8 @@ public class Game extends choicesImpl {
         }
         public static void run(){
             startup.start();
+            
+
             characters player = new characters("player");
             characters enemy = new characters("enemy");
             choicesImpl choice = new choicesImpl();
