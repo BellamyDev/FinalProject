@@ -28,10 +28,11 @@ public class LoadingScreen extends Sprite {
         this.ls = new LoadingSprite(sc);
         loadingsc = new SpriteComponent();
         loadingsc.addSprite(ls);
+        SpriteComponent tempsc = new SpriteComponent();
         //sc.addSprite(ls);
         //sc.setPreferredSize(new Dimension(1080, 1920));
         frame.setStringLayout(layout);
-        frame.add("topl", sc);
+        frame.add("topl", tempsc);
         //frame.add("topm", sc);
         //frame.add("row2l", sc);
         frame.add("row2m", loadingsc);
