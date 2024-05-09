@@ -292,6 +292,7 @@ public class Sprite implements MouseListener, Comparable<Sprite> {
 //                setVelY(-moveToSpeed * Math.sin(theta));
             }
         }
+        
     }
     
     /**

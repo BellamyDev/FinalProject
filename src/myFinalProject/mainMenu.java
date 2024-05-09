@@ -17,6 +17,7 @@ public class mainMenu extends Sprite{
         SpriteComponent sc = new SpriteComponent();
         sc.setPreferredSize(new Dimension(800, 600));
         sc.setBackground(Color.BLACK);
+        
        //bf.createBasicLayout(sc);
         bf.addMenuAction("File", "Start Game", () -> {
             if(clickCheck == 0){
@@ -24,8 +25,9 @@ public class mainMenu extends Sprite{
                 startup.loadingScreen.startAnimation();
                 new Thread(() -> {
                     try {
-                        Thread.sleep(10000);  // wait for the duration of the loading animation / change if duration change
-                        myFinalProject.Game.run();  // Start the game after loading is complete
+                        Thread.sleep(5000);  // wait for the duration of the loading animation / change if duration change
+                        myFinalProject.gamePlayer.initialize();  // Start the game after loading is complete
+                       
                     } catch (InterruptedException e) {
                         Thread.currentThread().interrupt();
                     }

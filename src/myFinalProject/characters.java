@@ -14,7 +14,7 @@ public class characters {
     String name;
     int health;
     int mana;
-    int maxHealth = 150;
+    int maxHealth = 100;
 
     public characters(String inputname){
         name = inputname;

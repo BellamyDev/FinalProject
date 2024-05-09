@@ -15,8 +15,8 @@ public class LoadingSprite extends Sprite {
         super(sc);
         setPicture(createLoadingPicture());
         setVel(0, 0);  // Static position
-        setX(340);
-        setY(230);
+        setX(270);
+        setY(80);
     }
 
     private Picture createLoadingPicture() {
@@ -25,7 +25,7 @@ public class LoadingSprite extends Sprite {
         g.setColor(Color.white);
         g.fillRect(0, 0, img.getWidth(), img.getHeight());
         g.setColor(Color.white);
-        g.fillArc(20, 20, 60, 60, 0, 270);  // Draw a semi circular arc
+        g.fillArc(20, 20, 60, 60, 0, 270);  
         g.dispose();
         return new Picture(img);
     }
@@ -39,9 +39,9 @@ public class LoadingSprite extends Sprite {
         g.setColor(Color.white);
         g.fillRect(0, 0, img.getWidth(), img.getHeight());
         g.setColor(Color.BLUE);
-        g.fillArc(20, 20, 60, 60, angle, 270);  // Update the arc to simulate rotation
+        g.fillArc(20, 20, 60, 60, angle, 270);  // Update the arc for rotation
         g.dispose();
-        setPicture(new Picture(img));  // Update the picture
+        setPicture(new Picture(img));  
     }
     public void finish() {
         BufferedImage img = (BufferedImage) getPicture().getImage();

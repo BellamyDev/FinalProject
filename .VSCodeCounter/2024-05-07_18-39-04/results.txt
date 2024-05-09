@@ -1,0 +1,43 @@
+Date : 2024-05-07 18:39:04
+Directory : d:\School Projects\BasicGraphics-main\FinalProject\src\myFinalProject
+Total : 18 files,  821 codes, 66 comments, 193 blanks, all 1080 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| Java               |         17 |        813 |         66 |        193 |      1,072 |
+| JSON with Comments |          1 |          8 |          0 |          0 |          8 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                              | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                 |         18 |        821 |         66 |        193 |      1,080 |
++---------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                          | language           | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| d:\School Projects\BasicGraphics-main\FinalProject\src\myFinalProject\FinalProject.code-workspace | JSON with Comments |          8 |          0 |          0 |          8 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\myFinalProject\FireballSprite.java         | Java               |         80 |          0 |         12 |         92 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\myFinalProject\Game.java                   | Java               |         22 |         10 |         10 |         42 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\myFinalProject\HealthBarSprite.java        | Java               |         54 |          0 |          6 |         60 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\myFinalProject\LoadingScreen.java          | Java               |         49 |          9 |         16 |         74 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\myFinalProject\LoadingSprite.java          | Java               |         51 |          0 |          7 |         58 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\myFinalProject\TextSprite.java             | Java               |         46 |          0 |          9 |         55 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\myFinalProject\bat.java                    | Java               |         48 |          3 |         16 |         67 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\myFinalProject\buttonLogic.java            | Java               |         19 |          0 |          3 |         22 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\myFinalProject\characters.java             | Java               |         33 |         10 |          6 |         49 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\myFinalProject\choices.java                | Java               |          7 |          8 |          3 |         18 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\myFinalProject\choicesImpl.java            | Java               |         53 |         12 |         17 |         82 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\myFinalProject\gamePlayer.java             | Java               |        195 |          0 |         36 |        231 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\myFinalProject\mainMenu.java               | Java               |         34 |          1 |         10 |         45 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\myFinalProject\player.java                 | Java               |         46 |          3 |         13 |         62 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\myFinalProject\rollers.java                | Java               |         25 |          9 |          8 |         42 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\myFinalProject\startup.java                | Java               |         12 |          1 |         16 |         29 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\myFinalProject\textHandler.java            | Java               |         39 |          0 |          5 |         44 |
+| Total                                                                                             |                    |        821 |         66 |        193 |      1,080 |
++---------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+

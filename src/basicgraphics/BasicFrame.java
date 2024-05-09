@@ -91,7 +91,7 @@ public class BasicFrame {
         this.heights = h;
     }
     
-    String[][] expandLayout(String[][] layout) {
+    public String[][] expandLayout(String[][] layout) {
         if(this.layout != null)
             return this.layout;
         if(heights == null) {

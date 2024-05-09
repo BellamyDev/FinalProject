@@ -1,0 +1,311 @@
+Date : 2024-05-07 06:54:34
+Directory : d:\School Projects\BasicGraphics-main\FinalProject\src\myFinalProject
+Total : 233 files,  -11105 codes, -1472 comments, -679 blanks, all -13256 lines
+
+Languages
++-----------------+------------+------------+------------+------------+------------+
+| language        | files      | code       | comment    | blank      | total      |
++-----------------+------------+------------+------------+------------+------------+
+| Java Properties |          5 |        -98 |         -7 |         -7 |       -112 |
+| XML             |          4 |     -1,661 |       -206 |         -4 |     -1,871 |
+| Java            |        224 |     -9,346 |     -1,259 |       -668 |    -11,273 |
++-----------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                               | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                  |        233 |    -11,105 |     -1,472 |       -679 |    -13,256 |
+| . (Files)                                                                                                          |          1 |          0 |          0 |          2 |          2 |
+| ..                                                                                                                 |        232 |    -11,105 |     -1,472 |       -681 |    -13,258 |
+| ..\..                                                                                                              |        164 |     -5,493 |       -322 |        -22 |     -5,837 |
+| ..\.. (Files)                                                                                                      |          1 |         -5 |        -68 |         -1 |        -74 |
+| ..\..\build                                                                                                        |        156 |     -3,735 |       -110 |        -14 |     -3,859 |
+| ..\..\build (Files)                                                                                                |          1 |         -1 |         -1 |         -3 |         -5 |
+| ..\..\build\classes                                                                                                |        155 |     -3,734 |       -109 |        -11 |     -3,854 |
+| ..\..\build\classes (Files)                                                                                        |          1 |        -44 |          0 |          0 |        -44 |
+| ..\..\build\classes\basicflyer                                                                                     |          6 |       -129 |          0 |          0 |       -129 |
+| ..\..\build\classes\basicgraphics                                                                                  |         68 |     -1,624 |        -98 |         -7 |     -1,729 |
+| ..\..\build\classes\basicgraphics (Files)                                                                          |         40 |       -920 |        -57 |         -7 |       -984 |
+| ..\..\build\classes\basicgraphics\calculator                                                                       |          9 |       -255 |          0 |          0 |       -255 |
+| ..\..\build\classes\basicgraphics\cards                                                                            |          5 |        -92 |          0 |          0 |        -92 |
+| ..\..\build\classes\basicgraphics\examples                                                                         |         10 |       -194 |          0 |          0 |       -194 |
+| ..\..\build\classes\basicgraphics\images                                                                           |          3 |        -73 |        -41 |          0 |       -114 |
+| ..\..\build\classes\basicgraphics\sounds                                                                           |          1 |        -90 |          0 |          0 |        -90 |
+| ..\..\build\classes\basicshooter                                                                                   |         12 |       -232 |          0 |          0 |       -232 |
+| ..\..\build\classes\beowulf                                                                                        |          8 |       -240 |          0 |          0 |       -240 |
+| ..\..\build\classes\beowulf\dragons                                                                                |          8 |       -240 |          0 |          0 |       -240 |
+| ..\..\build\classes\boardgame                                                                                      |          6 |        -49 |          0 |          0 |        -49 |
+| ..\..\build\classes\langtonsant                                                                                    |          4 |        -92 |         -1 |          0 |        -93 |
+| ..\..\build\classes\lightsout                                                                                      |          2 |        -77 |          0 |          0 |        -77 |
+| ..\..\build\classes\maze                                                                                           |         12 |       -311 |         -4 |         -2 |       -317 |
+| ..\..\build\classes\myFinalProject                                                                                 |          5 |        -67 |          0 |         -1 |        -68 |
+| ..\..\build\classes\prog                                                                                           |         17 |       -521 |          0 |         -1 |       -522 |
+| ..\..\build\classes\prog\game                                                                                      |         17 |       -521 |          0 |         -1 |       -522 |
+| ..\..\build\classes\robosorter                                                                                     |          9 |       -241 |         -2 |          0 |       -243 |
+| ..\..\build\classes\trees                                                                                          |          2 |        -46 |          0 |          0 |        -46 |
+| ..\..\build\classes\walkthedog                                                                                     |          3 |        -61 |         -4 |          0 |        -65 |
+| ..\..\nbproject                                                                                                    |          7 |     -1,753 |       -144 |         -7 |     -1,904 |
+| ..\..\nbproject (Files)                                                                                            |          4 |     -1,737 |       -144 |         -4 |     -1,885 |
+| ..\..\nbproject\private                                                                                            |          3 |        -16 |          0 |         -3 |        -19 |
+| ..\basicflyer                                                                                                      |          3 |       -156 |        -65 |        -15 |       -236 |
+| ..\basicgraphics                                                                                                   |         33 |     -2,863 |       -622 |       -367 |     -3,852 |
+| ..\basicgraphics (Files)                                                                                           |         21 |     -1,691 |       -432 |       -226 |     -2,349 |
+| ..\basicgraphics\calculator                                                                                        |          4 |       -414 |        -52 |        -48 |       -514 |
+| ..\basicgraphics\cards                                                                                             |          1 |       -108 |        -10 |         -8 |       -126 |
+| ..\basicgraphics\examples                                                                                          |          2 |       -210 |        -22 |        -32 |       -264 |
+| ..\basicgraphics\images                                                                                            |          3 |       -241 |        -59 |        -27 |       -327 |
+| ..\basicgraphics\sounds                                                                                            |          2 |       -199 |        -47 |        -26 |       -272 |
+| ..\basicshooter                                                                                                    |          4 |       -210 |        -40 |        -24 |       -274 |
+| ..\beowulf                                                                                                         |          1 |       -331 |        -14 |        -16 |       -361 |
+| ..\beowulf\dragons                                                                                                 |          1 |       -331 |        -14 |        -16 |       -361 |
+| ..\boardgame                                                                                                       |          6 |        -76 |        -54 |        -21 |       -151 |
+| ..\langtonsant                                                                                                     |          2 |        -96 |        -18 |        -10 |       -124 |
+| ..\lightsout                                                                                                       |          2 |       -107 |         -7 |        -27 |       -141 |
+| ..\maze                                                                                                            |          6 |       -455 |       -175 |        -48 |       -678 |
+| ..\prog                                                                                                            |          4 |       -839 |        -86 |        -85 |     -1,010 |
+| ..\prog\game                                                                                                       |          4 |       -839 |        -86 |        -85 |     -1,010 |
+| ..\robosorter                                                                                                      |          5 |       -355 |        -55 |        -32 |       -442 |
+| ..\trees                                                                                                           |          1 |        -67 |         -5 |        -10 |        -82 |
+| ..\walkthedog                                                                                                      |          1 |        -57 |         -9 |         -4 |        -70 |
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------------+-----------------+------------+------------+------------+------------+
+| filename                                                                                                           | language        | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------+-----------------+------------+------------+------------+------------+
+| d:\School Projects\BasicGraphics-main\FinalProject\build.xml                                                       | XML             |         -5 |        -68 |         -1 |        -74 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\built-jar.properties                                      | Java Properties |         -1 |         -1 |         -3 |         -5 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\SoundPlayer.class                                 | Java            |        -44 |          0 |          0 |        -44 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicflyer\Falcon.class                           | Java            |        -21 |          0 |          0 |        -21 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicflyer\Flyer$1.class                          | Java            |        -15 |          0 |          0 |        -15 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicflyer\Flyer$2.class                          | Java            |        -14 |          0 |          0 |        -14 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicflyer\Flyer$3.class                          | Java            |        -27 |          0 |          0 |        -27 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicflyer\Flyer.class                            | Java            |        -36 |          0 |          0 |        -36 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicflyer\Plasma.class                           | Java            |        -16 |          0 |          0 |        -16 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\BadComponent.class                  | Java            |        -11 |          0 |          0 |        -11 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\BasicContainer.class                | Java            |        -49 |          0 |         -2 |        -51 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\BasicFrame$1.class                  | Java            |        -18 |          0 |          0 |        -18 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\BasicFrame$2.class                  | Java            |        -13 |          0 |          0 |        -13 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\BasicFrame$3.class                  | Java            |        -12 |          0 |          0 |        -12 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\BasicFrame$4.class                  | Java            |        -11 |          0 |          0 |        -11 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\BasicFrame$MenuHolder.class         | Java            |         -9 |          0 |          0 |         -9 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\BasicFrame.class                    | Java            |       -154 |          0 |         -3 |       -157 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\BasicLayoutException.class          | Java            |         -6 |          0 |          0 |         -6 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\Bounds.class                        | Java            |         -9 |          0 |          0 |         -9 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\ByNameLayout.class                  | Java            |        -43 |          0 |         -2 |        -45 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\ClockWorker$1$1.class               | Java            |        -10 |          0 |          0 |        -10 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\ClockWorker$1.class                 | Java            |        -14 |          0 |          0 |        -14 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\ClockWorker.class                   | Java            |        -18 |          0 |          0 |        -18 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\CollisionEventType.class            | Java            |        -18 |          0 |          0 |        -18 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\CollisionState.class                | Java            |        -18 |          0 |          0 |        -18 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\ErrorComponent.class                | Java            |        -10 |          0 |          0 |        -10 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\FileUtility.class                   | Java            |        -29 |          0 |          0 |        -29 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\GuiException.class                  | Java            |        -10 |          0 |          0 |        -10 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\KeyWrapper$1.class                  | Java            |         -8 |          0 |          0 |         -8 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\KeyWrapper$2.class                  | Java            |         -9 |          0 |          0 |         -9 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\KeyWrapper$3.class                  | Java            |         -8 |          0 |          0 |         -8 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\KeyWrapper.class                    | Java            |        -23 |          0 |          0 |        -23 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\MouseWrapper$1.class                | Java            |         -8 |          0 |          0 |         -8 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\MouseWrapper$2.class                | Java            |         -8 |          0 |          0 |         -8 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\MouseWrapper$3.class                | Java            |         -9 |          0 |          0 |         -9 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\MouseWrapper$4.class                | Java            |         -8 |          0 |          0 |         -8 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\MouseWrapper$5.class                | Java            |         -8 |          0 |          0 |         -8 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\MouseWrapper.class                  | Java            |        -29 |          0 |          0 |        -29 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\Sprite.class                        | Java            |        -88 |          0 |          0 |        -88 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\SpriteCollisionEvent.class          | Java            |        -18 |          0 |          0 |        -18 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\SpriteComponent$1.class             | Java            |        -13 |          0 |          0 |        -13 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\SpriteComponent$2.class             | Java            |        -11 |          0 |          0 |        -11 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\SpriteComponent$3.class             | Java            |        -11 |          0 |          0 |        -11 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\SpriteComponent.class               | Java            |       -107 |        -57 |          0 |       -164 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\SpriteSpriteCollisionListener.class | Java            |         -3 |          0 |          0 |         -3 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\Task.class                          | Java            |        -24 |          0 |          0 |        -24 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\TaskRunner$1.class                  | Java            |        -13 |          0 |          0 |        -13 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\TaskRunner.class                    | Java            |        -20 |          0 |          0 |        -20 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\Util.class                          | Java            |        -32 |          0 |          0 |        -32 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\calculator\Auto$1.class             | Java            |        -10 |          0 |          0 |        -10 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\calculator\Auto.class               | Java            |        -42 |          0 |          0 |        -42 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\calculator\CalcTester.class         | Java            |        -76 |          0 |          0 |        -76 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\calculator\Calculator$1.class       | Java            |         -9 |          0 |          0 |         -9 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\calculator\Calculator$2.class       | Java            |        -15 |          0 |          0 |        -15 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\calculator\Calculator$3.class       | Java            |        -12 |          0 |          0 |        -12 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\calculator\Calculator$4.class       | Java            |        -11 |          0 |          0 |        -11 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\calculator\Calculator.class         | Java            |        -43 |          0 |          0 |        -43 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\calculator\MarsData.class           | Java            |        -37 |          0 |          0 |        -37 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\cards\CardLayoutExample$1.class     | Java            |        -10 |          0 |          0 |        -10 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\cards\CardLayoutExample$2.class     | Java            |        -10 |          0 |          0 |        -10 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\cards\CardLayoutExample$3$1.class   | Java            |        -14 |          0 |          0 |        -14 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\cards\CardLayoutExample$3.class     | Java            |        -20 |          0 |          0 |        -20 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\cards\CardLayoutExample.class       | Java            |        -38 |          0 |          0 |        -38 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\examples\BasicGraphics$1.class      | Java            |        -13 |          0 |          0 |        -13 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\examples\BasicGraphics$2.class      | Java            |        -11 |          0 |          0 |        -11 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\examples\BasicGraphics$3.class      | Java            |         -9 |          0 |          0 |         -9 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\examples\BasicGraphics$4.class      | Java            |        -12 |          0 |          0 |        -12 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\examples\BasicGraphics$5$1.class    | Java            |        -12 |          0 |          0 |        -12 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\examples\BasicGraphics$5.class      | Java            |        -23 |          0 |          0 |        -23 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\examples\BasicGraphics$Ball.class   | Java            |        -17 |          0 |          0 |        -17 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\examples\BasicGraphics.class        | Java            |        -75 |          0 |          0 |        -75 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\examples\Bat.class                  | Java            |        -15 |          0 |          0 |        -15 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\examples\Foo.class                  | Java            |         -7 |          0 |          0 |         -7 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\images\IconImage.class              | Java            |         -5 |          0 |          0 |         -5 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\images\Picture.class                | Java            |        -58 |        -41 |          0 |        -99 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\images\RuntimeIOException.class     | Java            |        -10 |          0 |          0 |        -10 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicgraphics\sounds\ReusableClip.class           | Java            |        -90 |          0 |          0 |        -90 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicshooter\Bullet.class                         | Java            |        -26 |          0 |          0 |        -26 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicshooter\Enemy.class                          | Java            |        -34 |          0 |          0 |        -34 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicshooter\Game$1.class                         | Java            |        -13 |          0 |          0 |        -13 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicshooter\Game$2.class                         | Java            |        -12 |          0 |          0 |        -12 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicshooter\Game$3.class                         | Java            |        -12 |          0 |          0 |        -12 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicshooter\Game$4.class                         | Java            |        -12 |          0 |          0 |        -12 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicshooter\Game$5.class                         | Java            |        -12 |          0 |          0 |        -12 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicshooter\Game$6.class                         | Java            |        -12 |          0 |          0 |        -12 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicshooter\Game$7.class                         | Java            |        -17 |          0 |          0 |        -17 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicshooter\Game$8.class                         | Java            |        -19 |          0 |          0 |        -19 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicshooter\Game.class                           | Java            |        -51 |          0 |          0 |        -51 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\basicshooter\Shooter.class                        | Java            |        -12 |          0 |          0 |        -12 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\beowulf\dragons\Main$1.class                      | Java            |         -9 |          0 |          0 |         -9 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\beowulf\dragons\Main$2$1.class                    | Java            |        -21 |          0 |          0 |        -21 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\beowulf\dragons\Main$2.class                      | Java            |         -8 |          0 |          0 |         -8 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\beowulf\dragons\Main$3.class                      | Java            |        -21 |          0 |          0 |        -21 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\beowulf\dragons\Main$Command.class                | Java            |         -7 |          0 |          0 |         -7 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\beowulf\dragons\Main$DragonSprite.class           | Java            |        -10 |          0 |          0 |        -10 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\beowulf\dragons\Main$ImageCommand.class           | Java            |        -10 |          0 |          0 |        -10 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\beowulf\dragons\Main.class                        | Java            |       -154 |          0 |          0 |       -154 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\boardgame\Board.class                             | Java            |        -22 |          0 |          0 |        -22 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\boardgame\Game.class                              | Java            |        -11 |          0 |          0 |        -11 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\boardgame\Move.class                              | Java            |         -5 |          0 |          0 |         -5 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\boardgame\MoveListener.class                      | Java            |         -2 |          0 |          0 |         -2 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\boardgame\Piece.class                             | Java            |         -7 |          0 |          0 |         -7 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\boardgame\Player.class                            | Java            |         -2 |          0 |          0 |         -2 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\langtonsant\Ant$1.class                           | Java            |        -15 |         -1 |          0 |        -16 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\langtonsant\Ant.class                             | Java            |        -22 |          0 |          0 |        -22 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\langtonsant\AntSprite$1.class                     | Java            |        -11 |          0 |          0 |        -11 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\langtonsant\AntSprite.class                       | Java            |        -44 |          0 |          0 |        -44 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\lightsout\LightsOutGame.class                     | Java            |        -34 |          0 |          0 |        -34 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\lightsout\Tile.class                              | Java            |        -43 |          0 |          0 |        -43 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\maze\Cell.class                                   | Java            |         -8 |          0 |          0 |         -8 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\maze\Maze$1$1.class                               | Java            |        -12 |          0 |          0 |        -12 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\maze\Maze$1.class                                 | Java            |        -22 |          0 |          0 |        -22 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\maze\Maze$2.class                                 | Java            |        -15 |          0 |          0 |        -15 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\maze\Maze.class                                   | Java            |       -129 |          0 |         -1 |       -130 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\maze\MazePathFinder.class                         | Java            |        -32 |          0 |          0 |        -32 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\maze\MazeViz$1.class                              | Java            |        -21 |          0 |          0 |        -21 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\maze\MazeViz$2.class                              | Java            |         -7 |          0 |          0 |         -7 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\maze\MazeViz$3.class                              | Java            |        -13 |          0 |          0 |        -13 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\maze\MazeViz.class                                | Java            |        -33 |         -4 |         -1 |        -38 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\maze\PathFinder.class                             | Java            |         -4 |          0 |          0 |         -4 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\maze\Pos.class                                    | Java            |        -15 |          0 |          0 |        -15 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\myFinalProject\Game.class                         | Java            |        -11 |          0 |          0 |        -11 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\myFinalProject\characters.class                   | Java            |        -10 |          0 |          0 |        -10 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\myFinalProject\choices.class                      | Java            |         -4 |          0 |         -1 |         -5 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\myFinalProject\choicesImpl.class                  | Java            |        -24 |          0 |          0 |        -24 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\myFinalProject\rollers.class                      | Java            |        -18 |          0 |          0 |        -18 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\prog\game\Dice.class                              | Java            |        -23 |          0 |          0 |        -23 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\prog\game\Game$1.class                            | Java            |        -14 |          0 |          0 |        -14 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\prog\game\Game$2$1.class                          | Java            |        -11 |          0 |          0 |        -11 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\prog\game\Game$2.class                            | Java            |        -12 |          0 |          0 |        -12 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\prog\game\Game$3.class                            | Java            |        -15 |          0 |          0 |        -15 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\prog\game\Game$4.class                            | Java            |        -54 |          0 |          0 |        -54 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\prog\game\Game$Position.class                     | Java            |         -6 |          0 |          0 |         -6 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\prog\game\Game.class                              | Java            |       -136 |          0 |          0 |       -136 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\prog\game\Game2$GameIter.class                    | Java            |        -26 |          0 |          0 |        -26 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\prog\game\Game2$_Block.class                      | Java            |        -14 |          0 |         -1 |        -15 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\prog\game\Game2$_Cell.class                       | Java            |         -9 |          0 |          0 |         -9 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\prog\game\Game2$_ElIf.class                       | Java            |        -13 |          0 |          0 |        -13 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\prog\game\Game2$_Else.class                       | Java            |        -13 |          0 |          0 |        -13 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\prog\game\Game2$_If.class                         | Java            |        -18 |          0 |          0 |        -18 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\prog\game\Game2$_While.class                      | Java            |        -13 |          0 |          0 |        -13 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\prog\game\Game2.class                             | Java            |       -119 |          0 |          0 |       -119 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\prog\game\ProgSpriteComponent.class               | Java            |        -25 |          0 |          0 |        -25 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\robosorter\Board$1.class                          | Java            |        -20 |         -2 |          0 |        -22 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\robosorter\Board$2.class                          | Java            |        -12 |          0 |          0 |        -12 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\robosorter\Board.class                            | Java            |        -27 |          0 |          0 |        -27 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\robosorter\EggSorter.class                        | Java            |        -61 |          0 |          0 |        -61 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\robosorter\MartianEgg.class                       | Java            |        -29 |          0 |          0 |        -29 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\robosorter\Mover$1.class                          | Java            |        -12 |          0 |          0 |        -12 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\robosorter\Mover.class                            | Java            |        -36 |          0 |          0 |        -36 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\robosorter\Robo$1.class                           | Java            |        -13 |          0 |          0 |        -13 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\robosorter\Robo.class                             | Java            |        -31 |          0 |          0 |        -31 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\trees\BTree.class                                 | Java            |        -20 |          0 |          0 |        -20 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\trees\Node.class                                  | Java            |        -26 |          0 |          0 |        -26 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\walkthedog\Dog$1.class                            | Java            |        -16 |          0 |          0 |        -16 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\walkthedog\Dog.class                              | Java            |        -18 |         -4 |          0 |        -22 |
+| d:\School Projects\BasicGraphics-main\FinalProject\build\classes\walkthedog\WalkDog.class                          | Java            |        -27 |          0 |          0 |        -27 |
+| d:\School Projects\BasicGraphics-main\FinalProject\nbproject\build-impl.xml                                        | XML             |     -1,633 |       -138 |         -1 |     -1,772 |
+| d:\School Projects\BasicGraphics-main\FinalProject\nbproject\genfiles.properties                                   | Java Properties |         -6 |         -2 |         -1 |         -9 |
+| d:\School Projects\BasicGraphics-main\FinalProject\nbproject\private\config.properties                             | Java Properties |          0 |          0 |         -1 |         -1 |
+| d:\School Projects\BasicGraphics-main\FinalProject\nbproject\private\private.properties                            | Java Properties |         -9 |          0 |         -1 |        -10 |
+| d:\School Projects\BasicGraphics-main\FinalProject\nbproject\private\private.xml                                   | XML             |         -7 |          0 |         -1 |         -8 |
+| d:\School Projects\BasicGraphics-main\FinalProject\nbproject\project.properties                                    | Java Properties |        -82 |         -4 |         -1 |        -87 |
+| d:\School Projects\BasicGraphics-main\FinalProject\nbproject\project.xml                                           | XML             |        -16 |          0 |         -1 |        -17 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicflyer\Falcon.java                                      | Java            |        -38 |        -23 |         -5 |        -66 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicflyer\Flyer.java                                       | Java            |        -92 |        -16 |         -4 |       -112 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicflyer\Plasma.java                                      | Java            |        -26 |        -26 |         -6 |        -58 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\BadComponent.java                             | Java            |        -19 |         -9 |         -6 |        -34 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\BasicContainer.java                           | Java            |       -104 |        -19 |        -12 |       -135 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\BasicFrame.java                               | Java            |       -362 |       -125 |        -39 |       -526 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\BasicLayoutException.java                     | Java            |         -6 |         -9 |         -4 |        -19 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\Bounds.java                                   | Java            |        -15 |         -9 |         -2 |        -26 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\ByNameLayout.java                             | Java            |       -103 |        -11 |         -7 |       -121 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\ClockWorker.java                              | Java            |        -54 |        -10 |         -8 |        -72 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\CollisionEventType.java                       | Java            |         -4 |         -9 |         -2 |        -15 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\CollisionState.java                           | Java            |         -4 |         -9 |         -2 |        -15 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\ErrorComponent.java                           | Java            |        -17 |        -11 |         -3 |        -31 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\FileUtility.java                              | Java            |        -63 |        -10 |         -8 |        -81 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\GuiException.java                             | Java            |        -11 |         -9 |         -6 |        -26 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\KeyWrapper.java                               | Java            |        -38 |         -9 |         -8 |        -55 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\MouseWrapper.java                             | Java            |        -54 |         -9 |        -10 |        -73 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\Sprite.java                                   | Java            |       -255 |        -59 |        -38 |       -352 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\SpriteCollisionEvent.java                     | Java            |        -34 |         -9 |         -3 |        -46 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\SpriteComponent.java                          | Java            |       -393 |        -26 |        -46 |       -465 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\SpriteSpriteCollisionListener.java            | Java            |         -4 |         -9 |         -2 |        -15 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\Task.java                                     | Java            |        -41 |         -9 |         -3 |        -53 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\TaskRunner.java                               | Java            |        -45 |        -28 |         -3 |        -76 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\Util.java                                     | Java            |        -65 |        -34 |        -14 |       -113 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\calculator\Auto.java                          | Java            |        -68 |         -9 |         -6 |        -83 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\calculator\CalcTester.java                    | Java            |       -154 |         -9 |        -26 |       -189 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\calculator\Calculator.java                    | Java            |       -124 |        -24 |         -8 |       -156 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\calculator\MarsData.java                      | Java            |        -68 |        -10 |         -8 |        -86 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\cards\CardLayoutExample.java                  | Java            |       -108 |        -10 |         -8 |       -126 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\examples\BasicGraphics.java                   | Java            |       -180 |        -13 |        -27 |       -220 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\examples\Bat.java                             | Java            |        -30 |         -9 |         -5 |        -44 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\images\IconImage.java                         | Java            |         -3 |         -9 |         -3 |        -15 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\images\Picture.java                           | Java            |       -225 |        -41 |        -18 |       -284 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\images\RuntimeIOException.java                | Java            |        -13 |         -9 |         -6 |        -28 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\sounds\ReusableClip.java                      | Java            |       -142 |         -6 |        -19 |       -167 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicgraphics\sounds\SoundPlayer.java                       | Java            |        -57 |        -41 |         -7 |       -105 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicshooter\Bullet.java                                    | Java            |        -31 |         -9 |         -4 |        -44 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicshooter\Enemy.java                                     | Java            |        -53 |        -13 |         -8 |        -74 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicshooter\Game.java                                      | Java            |       -115 |         -9 |         -9 |       -133 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\basicshooter\Shooter.java                                   | Java            |        -11 |         -9 |         -3 |        -23 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\beowulf\dragons\Main.java                                   | Java            |       -331 |        -14 |        -16 |       -361 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\boardgame\Board.java                                        | Java            |        -30 |         -9 |         -8 |        -47 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\boardgame\Game.java                                         | Java            |        -16 |         -9 |         -4 |        -29 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\boardgame\Move.java                                         | Java            |        -12 |         -9 |         -2 |        -23 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\boardgame\MoveListener.java                                 | Java            |         -4 |         -9 |         -2 |        -15 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\boardgame\Piece.java                                        | Java            |         -9 |         -9 |         -2 |        -20 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\boardgame\Player.java                                       | Java            |         -5 |         -9 |         -3 |        -17 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\langtonsant\Ant.java                                        | Java            |        -48 |         -9 |         -3 |        -60 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\langtonsant\AntSprite.java                                  | Java            |        -48 |         -9 |         -7 |        -64 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\lightsout\LightsOutGame.java                                | Java            |        -50 |         -4 |        -13 |        -67 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\lightsout\Tile.java                                         | Java            |        -57 |         -3 |        -14 |        -74 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\maze\Cell.java                                              | Java            |        -10 |        -20 |         -4 |        -34 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\maze\Maze.java                                              | Java            |       -273 |        -39 |        -25 |       -337 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\maze\MazePathFinder.java                                    | Java            |        -62 |         -9 |         -4 |        -75 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\maze\MazeViz.java                                           | Java            |        -82 |         -9 |         -6 |        -97 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\maze\PathFinder.java                                        | Java            |         -8 |        -83 |         -6 |        -97 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\maze\Pos.java                                               | Java            |        -20 |        -15 |         -3 |        -38 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\myFinalProject\gamePlayer.java                              | Java            |          0 |          0 |          2 |          2 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\prog\game\Dice.java                                         | Java            |        -66 |        -10 |         -5 |        -81 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\prog\game\Game.java                                         | Java            |       -339 |        -53 |        -31 |       -423 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\prog\game\Game2.java                                        | Java            |       -384 |        -14 |        -43 |       -441 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\prog\game\ProgSpriteComponent.java                          | Java            |        -50 |         -9 |         -6 |        -65 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\robosorter\Board.java                                       | Java            |       -101 |        -18 |        -12 |       -131 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\robosorter\EggSorter.java                                   | Java            |       -127 |        -10 |         -5 |       -142 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\robosorter\MartianEgg.java                                  | Java            |        -31 |         -9 |         -3 |        -43 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\robosorter\Mover.java                                       | Java            |        -54 |         -9 |         -8 |        -71 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\robosorter\Robo.java                                        | Java            |        -42 |         -9 |         -4 |        -55 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\trees\BTree.java                                            | Java            |        -67 |         -5 |        -10 |        -82 |
+| d:\School Projects\BasicGraphics-main\FinalProject\src\walkthedog\WalkDog.java                                     | Java            |        -57 |         -9 |         -4 |        -70 |
+| Total                                                                                                              |                 |    -11,105 |     -1,472 |       -679 |    -13,256 |
++--------------------------------------------------------------------------------------------------------------------+-----------------+------------+------------+------------+------------+

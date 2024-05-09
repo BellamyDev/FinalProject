@@ -12,6 +12,6 @@ public interface choices {
     public void basicAttack(characters defender);
     public void fireBall(characters defender);
     public void heal(characters defender);
-    public void flee();
+    public void flee(); // may become obsolete due to exit button
     
 }
